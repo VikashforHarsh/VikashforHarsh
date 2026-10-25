@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VikashforHarsh
+- 👋 Hi, I’m Akhil
 - 👀 I’m interested in Website Making
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on ...
